@@ -1,26 +1,37 @@
 import React from 'react';
-import NavBar from './styled/NavBar'
-import NavLi from './styled/NavLinks'
-import NavA from './styled/NavA'
+import HeaderText from './styled/HeaderText'
+import HeaderDiv from './styled/HeaderDiv'
+import HeaderSocials from './styled/HeaderSocials';
+import HeaderSection from './styled/HeaderSection';
+import HeaderBackground from './styled/HeaderBackground';
+
 
 export default class Header extends React.Component {
-  render() {
+  render (props) {
+    let resumeData = this.props.resumeData;
     return (
-      <React.Fragment>
-        <header id="header">
-          <NavBar>
-            <NavLi>
-              <NavA href="#about-me"> About me</NavA>
-            </NavLi>
-            <NavLi>
-              <NavA className="name-menu__links" href="#portfolio"> Portfolio</NavA>
-            </NavLi>
-            <NavLi>
-              <NavA className="name-menu__links" href="#contacts"> Contacts</NavA>
-            </NavLi>
-          </NavBar>
-        </header>
-      </React.Fragment>
-    )
-  }
-}
+      <HeaderSection>
+
+        <HeaderBackground />
+
+        <HeaderDiv>
+
+          <HeaderText>{ resumeData.greeting }</HeaderText>
+          <HeaderText>{ resumeData.greetingabout }</HeaderText>
+
+          <HeaderSocials>
+            {
+              resumeData.socialLinks.map(social => {
+                return <li key={ social.name }>
+                         <a href={ social.url }> <img src={ social.imageUrl } /> </a>
+                       </li>
+              })
+            }
+          </HeaderSocials>
+
+        </HeaderDiv>
+
+      </HeaderSection>
+    );
+  };
+};

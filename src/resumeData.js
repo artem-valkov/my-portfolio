@@ -1,6 +1,7 @@
 let resumeData = {
   "imagebaseurl":"https://artem-valkov.github.io/",
-  "name": "Artem Valkov",
+  "greeting": "Hello! My name is Artem Valkov.",
+  "greetingabout":"I'm Full-stack developer.",
   "socialLinks":[
     {
       "name":"linkedin",
@@ -15,7 +16,6 @@ let resumeData = {
       "imageUrl" : "https://img.icons8.com/color/48/000000/github.png",
     },
   ],
-  "aboutme":"I'm Full-stack developer",
   "address":"Ukraine",
   "website":"https://artemm-valkov.github.io",
   "education":[

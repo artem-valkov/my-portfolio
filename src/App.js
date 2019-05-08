@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
+import Nav from './components/Nav';
 import Header from './components/Header';
-import About from './components/About';
 import Portfolio from './components/Portfolio';
 import Contacts from './components/Contacts';
 import Footer from './components/Footer';
@@ -11,8 +11,8 @@ import resumeData from './resumeData';
     render () {
   return (
     <div>
-    <Header resumeData={resumeData}/>
-    <About resumeData={resumeData} />
+    <Nav resumeData={resumeData}/>
+    <Header resumeData={resumeData} />
     <Portfolio />
     <Contacts />
     <Footer />
