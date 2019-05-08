@@ -21,6 +21,28 @@
   text-align: center;
 }
 
+.social {
+  display: inline-block;
+  color: #fff;
+  text-align: center;
+  margin: 50px;
+  height: 100px;
+  width: 100px;
+}
+
+.about-social__github {
+  background-image: url("../images/github.svg");
+  height: 100px;
+  width: 100px;
+}
+
+.about-social__linkendin {
+  background-image: url("../images/linkendin.png");
+  background-size: cover;
+  height: 30px;
+  width: 30px;
+}
+
 
 
 

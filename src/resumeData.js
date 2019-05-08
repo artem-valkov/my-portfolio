@@ -9,12 +9,13 @@ let resumeData = {
     {
       "name":"linkedin",
       "url":"https://www.linkedin.com/in/artem-valkov/",
-      "className":"social-linkendin"
+      "className":"about-social__linkendin"
     },
     {
       "name":"github",
       "url":"http://github.com/artem.valkov",
-      "className":"social-github"
+      "className":"about-social__github",
+      "imageUrl" : "https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2012/png/iconmonstr-linkedin-3.png&r=43&g=28&b=255",
     },
   ],
   "aboutme":"I'm Full-stack developer",
