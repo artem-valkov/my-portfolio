@@ -8,7 +8,7 @@ export default class App extends React.Component {
     let resumeData = this.props.resumeData;
     return (
       <section id="about" className="about">
-        <img className="about-background" src={Background} alt="Logo"/>
+        <img className="about-background" src={Background} alt="Artem Valkov"/>
         <div className="about-text">
           <h1> Hello! My name is {resumeData.name}.</h1>
           <h1> {resumeData.aboutme} </h1>
