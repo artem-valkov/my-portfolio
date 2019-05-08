@@ -24,13 +24,8 @@
 
 .socials {
   display: inline-flex;
-  flex-direction: row;
   list-style-type: none;
   color: #fff;
-  text-align: center;
-  margin: 50px;
-  height: 100px;
-  width: 100px;
 }
 
 .about-social__github {

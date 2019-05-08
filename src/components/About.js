@@ -1,23 +1,23 @@
 import React from 'react';
-import './About.css';
+//import './About.css';
 import Background from '../images/background.jpg'
 import HeaderText from './styled/HeaderText'
-
-
-
-
+import HeaderSocials from './styled/HeaderSocials';
+import HeaderSection from './styled/HeaderSection';
+import HeaderBackground from './styled/HeaderBackground';
+import HeaderDiv from './styled/HeaderDiv'
 
 export default class About extends React.Component {
   render (props) {
     let resumeData = this.props.resumeData;
     return (
-      <section id="about" className="about">
-        <img className="about-background" src={Background} alt="Artem Valkov"/>
-        <div className="about-text">
-          <HeaderText> Hello! My name is { resumeData.name }.</HeaderText>
-          <HeaderText> { resumeData.aboutme } </HeaderText>
+      <HeaderSection>
+        <HeaderBackground/>
+        <HeaderDiv>
+          <HeaderText> Hello! My name is { resumeData.name }. </HeaderText>
+          <HeaderText> { resumeData.aboutme }. </HeaderText>
 
-          <ul className="socials">
+          <HeaderSocials>
             {
               resumeData.socialLinks.map(item => {
                 return <li key={ item.name }>
@@ -25,11 +25,11 @@ export default class About extends React.Component {
                        </li>
               })
             }
-          </ul>
+          </HeaderSocials>
 
-        </div>
+        </HeaderDiv>
 
-      </section>
+      </HeaderSection>
     );
   };
 };
