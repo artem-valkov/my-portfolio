@@ -7,7 +7,8 @@ import Contacts from './components/Contacts';
 import Footer from './components/Footer';
 
 
-function App() {
+  export default class App extends React.Component {
+    render () {
   return (
     <div>
     <Header />
@@ -17,6 +18,6 @@ function App() {
     <Footer />
     </div>
   );
+    }
 }
 
-export default App;
