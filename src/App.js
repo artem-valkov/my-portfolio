@@ -5,6 +5,7 @@ import About from './components/About';
 import Portfolio from './components/Portfolio';
 import Contacts from './components/Contacts';
 import Footer from './components/Footer';
+import resumeData from './resumeData';
 
 
   export default class App extends React.Component {
@@ -12,7 +13,7 @@ import Footer from './components/Footer';
   return (
     <div>
     <Header />
-    <About />
+    <About resumeData={resumeData} />
     <Portfolio />
     <Contacts />
     <Footer />
