@@ -7,12 +7,11 @@ import Contacts from './components/Contacts';
 import Footer from './components/Footer';
 import resumeData from './resumeData';
 
-
   export default class App extends React.Component {
     render () {
   return (
     <div>
-    <Header />
+    <Header resumeData={resumeData}/>
     <About resumeData={resumeData} />
     <Portfolio />
     <Contacts />

@@ -1,21 +1,18 @@
 let resumeData = {
   "imagebaseurl":"https://artem-valkov.github.io/",
   "name": "Artem Valkov",
-  "role": "Frontend Developer and Data Scientist",
-  "linkedinId":"Your LinkedIn Id",
-  "skypeid": "valkov.artyom",
-  "roleDescription": "I like dabbling in various parts of frontend/full-stack development and like to learn about new technologies or simply play games in my free time.",
   "socialLinks":[
     {
       "name":"linkedin",
       "url":"https://www.linkedin.com/in/artem-valkov/",
-      "className":"about-social__linkendin"
+      "className":"about-social__linkendin",
+      "imageUrl" : "https://img.icons8.com/color/48/000000/github.png",
     },
     {
       "name":"github",
-      "url":"http://github.com/artem.valkov",
+      "url":"http://github.com/artem-valkov",
       "className":"about-social__github",
-      "imageUrl" : "https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2012/png/iconmonstr-linkedin-3.png&r=43&g=28&b=255",
+      "imageUrl" : "https://img.icons8.com/color/52/000000/linkedin.png",
     },
   ],
   "aboutme":"I'm Full-stack developer",

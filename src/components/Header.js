@@ -1,23 +1,24 @@
 import React from 'react';
-import './Header.css'
-
+import NavBar from './styled/NavBar'
+import NavLi from './styled/NavLinks'
+import NavA from './styled/NavA'
 
 export default class Header extends React.Component {
   render() {
     return (
       <React.Fragment>
         <header id="header">
-          <ul id="nav" className="nav">
-            <li className="nav-menu">
-              <a className="name-menu__links" href="#about-me"> About me</a>
-            </li>
-            <li className="nav-menu">
-              <a className="name-menu__links" href="#portfolio"> Portfolio</a>
-            </li>
-            <li className="nav-menu">
-              <a className="name-menu__links" href="#contacts"> Contacts</a>
-            </li>
-          </ul>
+          <NavBar>
+            <NavLi>
+              <NavA href="#about-me"> About me</NavA>
+            </NavLi>
+            <NavLi>
+              <NavA className="name-menu__links" href="#portfolio"> Portfolio</NavA>
+            </NavLi>
+            <NavLi>
+              <NavA className="name-menu__links" href="#contacts"> Contacts</NavA>
+            </NavLi>
+          </NavBar>
         </header>
       </React.Fragment>
     )

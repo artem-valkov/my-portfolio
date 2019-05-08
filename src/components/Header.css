@@ -1,15 +1,26 @@
 .nav {
-  position:fixed;
+  position: absolute;
   text-align: center;
   width: 100%;
   height: 10vh;
-  background-color: #80CBC4;
+  opacity: 0.8;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }
 
 .nav-menu {
-  margin: 3vh;
+  padding: 15px;
   display: inline-block;
   font-size: 20px;
+  opacity: 1;
+}
+
+.nav-menu:hover {
+  background-color: #557A95;
+  border: 2px #557A95;
+  border-radius: 5px;
 }
 
 a {
