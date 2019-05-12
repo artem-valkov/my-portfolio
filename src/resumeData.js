@@ -15,6 +15,12 @@ let resumeData = {
       "className":"about-social__github",
       "imageUrl" : "https://img.icons8.com/color/48/000000/github.png",
     },
+    {
+      "name":"skype",
+      "url":"http://github.com/artem-valkov",
+      "className":"about-social__github",
+      "imageUrl" : "https://img.icons8.com/color/48/000000/github.png",
+    },
   ],
   "address":"Ukraine",
   "website":"https://artemm-valkov.github.io",
