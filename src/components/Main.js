@@ -10,7 +10,7 @@ export default class Main extends React.Component {
     return (
       <main>
         <Switch>
-          <Route path='/home' component={Header} />
+          <Route exact path='/' component={Header} /> } />
           <Route path='/about' component={About} />
           <Route path='/projects' component={Projects} />
           <Route path='/contacts' component={Contacts} />
