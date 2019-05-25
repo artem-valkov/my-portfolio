@@ -10,6 +10,7 @@ const NavBar = styled.ul `
   flex-direction: row;
   justify-content: center;
   align-items: center;
+  background-color: #0093FF;
 `
 
 export default NavBar;
