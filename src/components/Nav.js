@@ -10,7 +10,7 @@ export default class Nav extends React.Component {
     return (
       <React.Fragment>
           <NavBar>
-            <NavLink activeStyle={{ backgroundColor: '#545454', borderRadius: '5px' }} to='/home'>
+            <NavLink activeStyle={{ backgroundColor: '#545454', borderRadius: '5px' }} to='/'>
               <NavLi>
                 <NavA className="name-menu__links">Home</NavA>
               </NavLi>
