@@ -2,48 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2a6d232-17a9-4f39-b004-01b0b76262b4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/portfolio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/portfolio.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Education.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Education.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Nav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styled/AboutA.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styled/AboutA.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styled/AboutBackground.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styled/AboutBackground.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styled/AboutTechnologiesIcons.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styled/AboutTechnologiesIcons.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styled/AboutText.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styled/AboutText.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styled/HeaderBackground.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styled/HeaderBackground.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styled/HeaderDiv.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styled/HeaderDiv.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styled/HeaderSection.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styled/HeaderSection.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styled/HeaderSocials.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styled/HeaderSocials.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styled/HeaderText.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styled/HeaderText.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styled/NavA.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styled/NavA.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styled/NavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styled/NavBar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styled/NavLinks.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styled/NavLinks.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styled/ProjectCase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styled/ProjectCase.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styled/ProjectsBackground.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styled/ProjectsBackground.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/JavaScript.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/JavaScript.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/about-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/about-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/background.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/css3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/css3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/github.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/github.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/html5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/html5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/linkendin.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/linkendin.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/portfolio-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/portfolio-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/react.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/react.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/normalize.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resumeData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/resumeData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,10 +30,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -117,7 +80,7 @@
       <workItem from="1557687268237" duration="7044000" />
       <workItem from="1557697139257" duration="9023000" />
       <workItem from="1558793931780" duration="1340000" />
-      <workItem from="1565560048156" duration="1188000" />
+      <workItem from="1565560048156" duration="1776000" />
     </task>
     <servers />
   </component>
