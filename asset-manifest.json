@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a9d57740.chunk.css",
-    "main.js": "/portfolio/static/js/main.5961ac43.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.5961ac43.chunk.js.map",
-    "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
-    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
-    "static/js/2.a6641cdb.chunk.js": "/portfolio/static/js/2.a6641cdb.chunk.js",
-    "static/js/2.a6641cdb.chunk.js.map": "/portfolio/static/js/2.a6641cdb.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.7116f211766aafe40e048ebb5239b1f6.js": "/portfolio/precache-manifest.7116f211766aafe40e048ebb5239b1f6.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.a9d57740.chunk.css.map": "/portfolio/static/css/main.a9d57740.chunk.css.map",
-    "static/media/about-bg.jpg": "/portfolio/static/media/about-bg.717703b7.jpg",
-    "static/media/background.jpg": "/portfolio/static/media/background.ddc2dbf7.jpg",
-    "static/media/portfolio-bg.jpg": "/portfolio/static/media/portfolio-bg.0dde6ccb.jpg"
+    "main.css": "/my-portfolio/static/css/main.a9d57740.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.b5bee32f.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.b5bee32f.chunk.js.map",
+    "runtime~main.js": "/my-portfolio/static/js/runtime~main.674e5ed7.js",
+    "runtime~main.js.map": "/my-portfolio/static/js/runtime~main.674e5ed7.js.map",
+    "static/js/2.013c5dd7.chunk.js": "/my-portfolio/static/js/2.013c5dd7.chunk.js",
+    "static/js/2.013c5dd7.chunk.js.map": "/my-portfolio/static/js/2.013c5dd7.chunk.js.map",
+    "index.html": "/my-portfolio/index.html",
+    "precache-manifest.cd4ca2a7d5ecac2fdbf6681b90c72977.js": "/my-portfolio/precache-manifest.cd4ca2a7d5ecac2fdbf6681b90c72977.js",
+    "service-worker.js": "/my-portfolio/service-worker.js",
+    "static/css/main.a9d57740.chunk.css.map": "/my-portfolio/static/css/main.a9d57740.chunk.css.map",
+    "static/media/about-bg.jpg": "/my-portfolio/static/media/about-bg.717703b7.jpg",
+    "static/media/background.jpg": "/my-portfolio/static/media/background.ddc2dbf7.jpg",
+    "static/media/portfolio-bg.jpg": "/my-portfolio/static/media/portfolio-bg.0dde6ccb.jpg"
   }
 }
