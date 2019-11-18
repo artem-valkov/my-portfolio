@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e2a6d232-17a9-4f39-b004-01b0b76262b4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +82,8 @@
       <workItem from="1557687268237" duration="7044000" />
       <workItem from="1557697139257" duration="9023000" />
       <workItem from="1558793931780" duration="1340000" />
-      <workItem from="1565560048156" duration="1776000" />
+      <workItem from="1565560048156" duration="3990000" />
+      <workItem from="1565736470678" duration="758000" />
     </task>
     <servers />
   </component>
@@ -92,7 +95,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

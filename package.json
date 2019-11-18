@@ -4,11 +4,10 @@
   "private": true,
   "homepage": "https://artemvalkov.com",
   "dependencies": {
-    "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router": "^5.0.0",
-    "react-router-dom": "^5.0.0",
+    "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.0",
     "styled-components": "^4.2.0"
   },
@@ -36,6 +35,7 @@
     ]
   },
   "devDependencies": {
-    "@babel/preset-react": "^7.0.0"
+    "@babel/preset-react": "^7.0.0",
+    "gh-pages": "^2.1.1"
   }
 }
